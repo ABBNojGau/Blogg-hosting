@@ -8,7 +8,7 @@
   <div class="flex justify-between bg-[#e6f4ff]">
     <div class="w-2/3 md:w-1/3">
       <div
-        class="bg-transparent h-9 sm:h-24 md:h-11 lg:h-14 xl:h-20 2xl:h-26 flex flex-row items-center mt-0.5 w-full"
+        class="bg-transparent h-9 sm:h-11 md:h-11 lg:h-14 xl:h-20 2xl:h-26 flex flex-row items-center mt-0.5 w-full"
       >
         <img
           src="~/assets/images/logo.png"
