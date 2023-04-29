@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="cover bg-[#e6f4ff] flex flex-col md:flex-row md:justify-evenly"
-  ></div>
+  <div class="cover flex flex-col md:flex-row md:justify-evenly"></div>
 </template>
 
 <script setup></script>

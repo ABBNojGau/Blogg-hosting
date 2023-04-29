@@ -1,5 +1,5 @@
 <template>
-  <div class="cover bg-[#e6f4ff] flex flex-col md:flex-row md:justify-evenly">
+  <div class="cover flex flex-col md:flex-row md:justify-evenly">
     <div class="w-full md:w-1/4 h-2/3 md:h-full flex flex-col">
       <div class="text mt-6 md:mt-6 text-4xl">About us</div>
       <div class="text mt-6 md:mt-5 text-l">
