@@ -4,8 +4,7 @@ author: Gubert
 date: 2022-11-11
 layout: blog
 rating: 2/5
-coverImage: chicken.jpg
-alt: chicken
+img: /images/tomato.jpg
 ---
 
 As a reviewer for **Soup Cooking**, I've tried a lot of different tomato soup recipes from various sources. Unfortunately, the one I recently tried was not up to par.

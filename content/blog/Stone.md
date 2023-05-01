@@ -4,8 +4,7 @@ author: Mani
 date: 2022-12-12
 layout: blog
 rating: 3/5
-coverImage: chicken.jpg
-alt: chicken
+img: /images/stone.jpg
 ---
 
 I recently had the opportunity to try the stone soup at a local restaurant, and while it wasn't my favorite soup of all time, it was still a solid choice.

@@ -48,8 +48,12 @@ import { convertDate } from "~/utils";
         by, {{ doc.author }}, {{ convertDate(doc.date) }}
       </p>
       <div class="prose prose-lg text2 sm:text-l 2xl:text-2xl">
-        <ContentRenderer :value="doc" /></div
-    ></ContentDoc>
+        <ContentRenderer :value="doc" />
+      </div>
+      <img
+        :src="doc.img"
+        class="w-full border-4 border-gray-300 mt-12 rounded-2xl"
+    /></ContentDoc>
   </main>
 </template>
 
@@ -68,7 +72,7 @@ h1 {
 h2 {
   font-size: 1.5em;
   font-weight: bold;
-  margin-top: 0.7em;
+  margin-top: 1em;
   margin-bottom: 0.4em;
 }
 

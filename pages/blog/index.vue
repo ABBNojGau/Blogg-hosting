@@ -1,10 +1,16 @@
 <template>
   <main class="bg-[#e6f4ff]">
-    <div
-      class="h-26 ml-12 2xl:ml-20 text mt-6 2xl:mt-12 md:mt-6 text-4xl 2xl:text-7xl"
-    >
-      <p>Soups</p>
-      <span class="mt-2 Line flex w-1/12 2xl:w-1/6"></span>
+    <div class="flex justify-between">
+      <div
+        class="h-26 ml-12 2xl:ml-20 text mt-6 2xl:mt-12 md:mt-6 text-4xl 2xl:text-7xl"
+      >
+        <p>Soups</p>
+        <span class="mt-2 Line flex w-full"></span>
+      </div>
+      <div class="text flex flex-col justify-end mr-12 text-lg">
+        <p>All soups are listed A-Z</p>
+        <p>Use Ctrl + F to search</p>
+      </div>
     </div>
     <div
       class="grid ml-3 mr-3 mt-6 gap-16 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12 text"
@@ -40,7 +46,7 @@
             <div class="rounded-2xl mt-4 object-cover max-w-xs">
               <img
                 class="h-40 border-2 border-gray-300 rounded-2xl object-cover"
-                src="~/assets/images/banner.jpg"
+                :src="article.img"
               />
             </div>
           </NuxtLink>

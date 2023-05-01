@@ -4,8 +4,7 @@ author: Karl
 date: 2022-12-01
 layout: blog
 rating: 5/5
-coverImage: chicken.jpg
-alt: chicken
+img: /images/beetroot.jpg
 ---
 
 I _recently_ tried the beetroot soup recipe from Soup Cooking and I have to say, it was amazing! As a reviewer for the website, I'm constantly trying out new soup recipes, and this one definitely stands out as one of my favorites.

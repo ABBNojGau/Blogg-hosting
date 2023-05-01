@@ -4,8 +4,7 @@ author: Lemon
 date: 2022-11-03
 layout: blog
 rating: 5/5
-coverImage: images/chicken.jpg
-alt: Article 1
+img: /images/chicken.jpg
 ---
 
 As a reviewer for Soup Cooking, I've had the pleasure of trying many different types of chicken soup from various restaurants and kitchens. Recently, I had the opportunity to try the chicken soup from a local deli, and I have to say, it was one of the best I've ever had.

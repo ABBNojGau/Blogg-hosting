@@ -1,7 +1,7 @@
 <template>
   <main class="cover flex flex-col md:flex-row md:justify-evenly">
     <div
-      class="w-full md:w-1/3 h-1/3 md:h-full flex whitespace-pre-line flex-col ml-2 md:ml-0"
+      class="w-full md:w-1/3 h-1/3 md:h-full flex whitespace-pre-line flex-col p-2 md:ml-0"
     >
       <div class="text mt-6 md:mt-28 text-5xl">The best ratings</div>
       <div class="text mt-2 md:mt-2 text-3xl">Cook with confidence</div>
@@ -17,7 +17,7 @@
     <div
       class="w-full md:w-1/2 h-1/2 md:h-full flex justify-center md:justify-start mt-24 md:mt-0"
     >
-      <img src="~/assets/images/sup.png" />
+      <img class="bg-[#e6f4ff]" src="~/assets/images/sup.png" />
     </div>
   </main>
 </template>
