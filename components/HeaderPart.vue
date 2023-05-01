@@ -10,7 +10,7 @@
         />
 
         <NuxtLink to="/" class="toolbar-btn mt-5 mr-4 md:mr-8">Home</NuxtLink
-        ><NuxtLink to="/soups" class="toolbar-btn mt-5 mr-4 md:mr-8"
+        ><NuxtLink to="/blog" class="toolbar-btn mt-5 mr-4 md:mr-8"
           >Soups</NuxtLink
         ><NuxtLink to="/about-us" class="toolbar-btn mt-5 mr-4 md:mr-8"
           >About</NuxtLink

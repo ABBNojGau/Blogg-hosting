@@ -5,10 +5,10 @@
     href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap"
     rel="stylesheet"
   />
-  <div class="bg-[#e6f4ff]">
+  <div class="bg-[#e6f4ff] sm:h-screen">
     <HeaderPart />
-    <div>
-      <slot />
+    <div class="bg-[#e6f4ff]">
+      <slot class="bg-[#e6f4ff]" />
     </div>
   </div>
 </template>
