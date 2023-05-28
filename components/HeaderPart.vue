@@ -4,10 +4,7 @@
       <div
         class="bg-transparent h-9 sm:h-11 md:h-11 lg:h-14 xl:h-20 2xl:h-24 flex flex-row items-center mt-0.5 w-full"
       >
-        <img
-          src="~/assets/images/logo.png"
-          class="img h-full ml-5 mr-5 md:ml-8"
-        />
+        <img src="~/assets/images/logo.png" class="h-full ml-5 mr-5 md:ml-8" />
 
         <NuxtLink to="/" class="toolbar-btn mt-5 mr-4 md:mr-8">Home</NuxtLink
         ><NuxtLink to="/blog" class="toolbar-btn mt-5 mr-4 md:mr-8"

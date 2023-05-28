@@ -1,5 +1,7 @@
 <template>
-  <main class="cover flex flex-col md:flex-row md:justify-evenly">
+  <main
+    class="cover flex flex-col md:flex-row md:justify-evenly md:min-h-[35em] lg:min-h-[30em] min-h-[36em] sm:min-h-[36em]"
+  >
     <div
       class="w-full md:w-1/3 h-1/3 md:h-full flex whitespace-pre-line flex-col p-2 md:ml-0"
     >
